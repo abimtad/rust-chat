@@ -1,0 +1,10 @@
+[package]
+name = "rust-chat"
+version = "0.1.0"
+edition = "2015"
+
+[dependencies]
+mio = "0.6"
+http-muncher = "0.3"
+sha1 = "0.6"
+rustc-serialize = "0.3"
